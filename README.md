@@ -1,0 +1,1 @@
+# global_camera_for_robo_soccer
